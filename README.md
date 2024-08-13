@@ -12,8 +12,6 @@
 
 ![Tr1ten's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=tr1ten)
 <br>
-![Leetcode Stats](https://leetcard.jacoblin.cool/tr1ten?theme=light)
-<br>
 Feel free to contact me :yum:
 <br><br>
 [<img src="https://img.shields.io/badge/Telegram-%40Triten-blue">](https://t.me/Tri1_0)
