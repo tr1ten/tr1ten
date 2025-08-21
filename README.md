@@ -7,8 +7,7 @@
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 - :computer: I love Computers! 
-- 👯 I’m looking to collaborate on machine learning project
-- :school: I'm a College Student 
+- 👯 I’m looking to collaborate on machine learning project 
 
 ![Tr1ten's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=tr1ten)
 <br>
